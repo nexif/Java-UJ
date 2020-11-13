@@ -6,4 +6,3 @@ The program takes an integer as an argument, which determines the size of the la
 
 Library used: StdDraw - Standard Drawing Library
 
-![Alt text](/out/sh.png?raw=true "Maze")
