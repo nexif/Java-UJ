@@ -7,4 +7,3 @@ Słownik posiada następujące funkcjonalności:
 
 Program korzysta z HSQLDB - napisanego w Javie lekkiego systemu baz danych.
 
-![Alt text](/out/sh.png?raw=true "Dictionary")
