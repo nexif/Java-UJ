@@ -4,5 +4,4 @@ Then using Java reflection the class is loaded, function's values are calculated
 Library used: JFreeChart
 
 
-![Alt text](/out/sh.jpg?raw=true "Plot")
  
